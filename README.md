@@ -24,7 +24,7 @@
 
 # Sobre o Projeto
 
-- Programa básico, testando tipos primitivos de double para int, conversão explicita no console, e execulta o resultado na tela.
+- Programa básico, calcule a area do tropézio, e execulta o resultado na tela.
 - Projeto foi implemetado no console.
 - IDE Eclipse
 
