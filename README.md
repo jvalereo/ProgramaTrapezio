@@ -24,7 +24,7 @@
 
 # Sobre o Projeto
 
-- Programa básico, calcule a area do tropézio, e execulta o resultado na tela.
+- Programa básico, calcule a area do trapézio, e execulta o resultado na tela.
 - Projeto foi implemetado no console.
 - IDE Eclipse
 
